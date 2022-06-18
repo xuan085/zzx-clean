@@ -4,7 +4,7 @@
 
 ### 安装
 ```
-npm install clean_node_modules -g
+npm i @zzxuan/zzx-clean -g
 ```
 
 ### 使用

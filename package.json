@@ -1,6 +1,6 @@
 {
-  "name": "zzx-clean",
-  "version": "1.0.0",
+  "name": "@zzxuan/zzx-clean",
+  "version": "1.0.3",
   "description": "Delete all node_modules in the current directory and subdirectories",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/xuan085/zzx-clean.git"
   },
-  "keywords": ["clean node_modules"],
+  "keywords": ["clean node_modules", "zzx-clean"],
   "author": "",
   "license": "ISC",
   "bugs": {
