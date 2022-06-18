@@ -1,0 +1,25 @@
+{
+  "name": "zzx-clean",
+  "version": "1.0.0",
+  "description": "Delete all node_modules in the current directory and subdirectories",
+  "main": "index.js",
+  "bin": {
+    "zzxclean": "index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuan085/zzx-clean.git"
+  },
+  "keywords": ["clean node_modules"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuan085/zzx-clean/issues"
+  },
+  "homepage": "https://github.com/xuan085/zzx-clean#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0",
+    "glob": "^8.0.3"
+  }
+}
