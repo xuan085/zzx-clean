@@ -1,6 +1,6 @@
 {
   "name": "@zzxuan/zzx-clean",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Delete all node_modules in the current directory and subdirectories",
   "main": "./bin/zzx-clean.js",
   "bin": {
@@ -12,6 +12,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xuan085/zzx-clean.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "clean node_modules",
