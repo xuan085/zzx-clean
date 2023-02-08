@@ -1,6 +1,6 @@
 {
   "name": "@zzxuan/zzx-clean",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Delete all node_modules in the current directory and subdirectories",
   "main": "./bin/zzx-clean.js",
   "bin": {
