@@ -13,3 +13,10 @@ npm i @zzxuan/zzx-clean -g
 ```
 zzx-clean
 ```
+
+## 发包
+
+```
+npm login
+npm run release
+```
