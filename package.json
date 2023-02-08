@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/xuan085/zzx-clean#readme",
   "devDependencies": {
+    "@release-it/conventional-changelog": "^5.1.1",
     "release-it": "^15.4.2"
   },
   "dependencies": {
